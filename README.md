@@ -2,7 +2,7 @@
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Random Forest Regressor.</h4><br>
-  <img src="https://github.com/Rajeev095/Medical-Cost-Prediction/blob/main/sampleImages/doc.gif">
+  <img src="https://github.com/Rajeev095/Medical_Insurance_Cost_Prediction/blob/main/sampleImages/doc.gif">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,11 +13,11 @@ To predict things have been never so easy. I used to wonder how Insurance amount
  
 ## :hourglass: Some Screenshots
 
-![](https://github.com/Rajeev095/-Medical-Cost-Prediction/blob/main/sampleImages/Cor.png)
+![](https://github.com/Rajeev095/Medical_Insurance_Cost_Prediction/blob/main/sampleImages/Cor.png)
 
-![](https://github.com/Rajeev095/-Medical-Cost-Prediction/blob/main/sampleImages/AgevsCharges.png)
+![](https://github.com/Rajeev095/Medical_Insurance_Cost_Prediction/blob/main/sampleImages/AgevsCharges.png)
 
-![](https://github.com/Rajeev095/-Medical-Cost-Prediction/blob/main/sampleImages/deployments.png)
+![](https://github.com/Rajeev095/Medical_Insurance_Cost_Prediction/blob/main/sampleImages/deployments.png)
 
 ## :star: Features
 <ol>
